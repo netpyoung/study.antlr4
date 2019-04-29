@@ -1,0 +1,4 @@
+/JavaLib/*.jar
+/Calc/Calc.Gen/*.interp
+/Calc/Calc.Gen/*.tokens
+/Calc/Calc.Gen/*.cs
